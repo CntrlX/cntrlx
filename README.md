@@ -5,4 +5,4 @@
 
 
 
-<img align="right" width="44.57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cntrlx&layout=donut&theme=dracula&hide=makefile,cmake" />
+<img align="center" width="44.57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cntrlx&layout=donut&theme=dracula&hide=makefile,cmake" />
