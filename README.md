@@ -1,6 +1,6 @@
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cntrlx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=35&duration=3000&pause=1&color=01E095&center=true&vCenter=true&random=false&width=435&lines=I+am+Nihal;I+am+Cntrlx)]
 ![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=cntrlx&theme=tokyonight&show_icons=true)
 
 
